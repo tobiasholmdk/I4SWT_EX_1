@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a075339-d4b8-4854-a56c-7f4331bde475" name="Default Changelist" comment="SWT_LEC_01" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Calculator/Calculator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Calculator/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../I4GUI/Exercises/Exercise_1/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Calculator/Class1.cs" />
+        <option value="$PROJECT_DIR$/Calculator/test.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Test.cs" />
+        <option value="$PROJECT_DIR$/Calculator/Calculator.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X156A2ZKWElRp5Z5i8NXd36FqR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TWShift.4" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a075339-d4b8-4854-a56c-7f4331bde475" name="Default Changelist" comment="" />
+      <created>1580200581797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580200581797</updated>
+      <workItem from="1580200583052" duration="1833000" />
+      <workItem from="1580202968460" duration="6819000" />
+    </task>
+    <task id="LOCAL-00001" summary="SWT_LEC_01">
+      <created>1580228461441</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580228461441</updated>
+    </task>
+    <task id="LOCAL-00002" summary="SWT_LEC_01">
+      <created>1580228699626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580228699626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SWT_LEC_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="SWT_LEC_01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="427" y="194" key="Rider.ProjectTemplateDialog.Size" timestamp="1580229308258">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="427" y="194" key="Rider.ProjectTemplateDialog.Size/-1440.203.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1580229308258" />
+    <state x="320" y="165" key="Rider.ProjectTemplateDialog.Size/0.23.1440.806@0.23.1440.806" timestamp="1580210188005" />
+    <state x="310" y="146" key="Vcs.Push.Dialog.v2" timestamp="1580228706510">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="310" y="146" key="Vcs.Push.Dialog.v2/-1440.203.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1580228706510" />
+    <state x="515" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580228589205">
+      <screen x="0" y="23" width="1920" height="973" />
+    </state>
+    <state x="515" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1440.203.1440.877/0.23.1920.973@0.23.1920.973" timestamp="1580228589205" />
+    <state x="383" y="150" width="672" height="160" key="search.everywhere.popup" timestamp="1580204666538">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="383" y="150" width="672" height="160" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1580204666538" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Calculator/Calculator.cs</url>
+          <line>6</line>
+          <properties documentPath="$PROJECT_DIR$/Calculator/Calculator.cs" initialLine="6">
+            <startOffsets>
+              <option value="151" />
+            </startOffsets>
+            <endOffsets>
+              <option value="152" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
